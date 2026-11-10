@@ -32,5 +32,5 @@ Model performance will be evaluated using MAE, RMSE, R², and Spearman correlati
 ## Team Members
 
 - Hossein Moein
-- [Team Member 2]
-- [Team Member 3]
+- Merve Kaftan
+- Özge Nur Öztürk
