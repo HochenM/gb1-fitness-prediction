@@ -34,3 +34,37 @@ Model performance will be evaluated using MAE, RMSE, R², and Spearman correlati
 - Hossein Moein
 - Merve Kaftan
 - Özge Nur Öztürk
+
+
+
+gb1-fitness-prediction/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── data/
+│   ├── raw/
+│   │   └── sampled.csv
+│   └── processed/
+│
+├── notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   ├── 03_model_training.ipynb
+│   └── 04_results_analysis.ipynb
+│
+├── src/
+│   ├── features.py
+│   ├── train.py
+│   └── evaluate.py
+│
+├── models/
+│
+├── results/
+│   ├── figures/
+│   └── metrics/
+│
+└── reports/
+    ├── proposal.pdf
+    └── final_report.pdf
